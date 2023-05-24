@@ -1,14 +1,14 @@
 {
-      "name": "Mukesh Robot",
-      "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/49c43e6fc856534a09853.jpg",
+      "name": "𝄟ॐ❥𝗦𝗔𝗜𝗥𝗔🍷𝗞𝗢𝗢𝗞𝗜𝗘 ⏤͟͟͞❥͜͡𝄟⃟🥀",
+      "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
+      "logo": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/Noob-Mukesh/MukeshRobot",
+   "repository": "https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
    "stack": "heroku-22",
    "addons": [
       {
@@ -22,21 +22,16 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "21817669"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "473f5557d007d9989a246bb6143593d8"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
          "value": "True"
-      },
-      "CASH_API_KEY": {
-         "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
-         "required": true,
-         "value": "D0ZCZ67KL8OTL0PY"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -50,7 +45,7 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001770762410"
+         "value": "-1001654233554"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -60,22 +55,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2145093972"
+         "value": "6024212623"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://te.legra.ph/file/49c43e6fc856534a09853.jpg"
+         "value": "https://telegra.ph/file/c8510dc787aa503705ea1.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "the_support_chat"
-      },
-      "TIME_API_KEY": {
-         "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
-         "required": true,
-         "value": "5LB4TAKPEKZ0"
+         "value": "https://t.me/YO_UR_OFFICIAL_CRUSH"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
